@@ -1,0 +1,69 @@
+{
+	"id": "07d333e6-fea5-4213-85f9-2bad1e921bbe",
+	"name": "E2E-API",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "http://ask-stage.portnov.com/api/v1",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "studentID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "studentActivationcode",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "teacherId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "student token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "teacherToken",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "quizId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "studentToken",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "assignmentid",
+			"value": "",
+			"type": "any",
+			"enabled": false
+		},
+		{
+			"key": "assignmentId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-07-25T21:41:47.393Z",
+	"_postman_exported_using": "Postman/10.16.3"
+}
